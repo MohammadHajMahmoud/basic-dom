@@ -1,3 +1,7 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 body{
     background-color: #ecf0f1;
 }
@@ -71,4 +75,7 @@ body{
 
 .arrow:active{
     background-color: #7f8c8d
+}
+.sub-header{
+    text-shadow: 5px 5px 5px  #27ae60;
 }
